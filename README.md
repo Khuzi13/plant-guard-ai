@@ -11,7 +11,7 @@ An advanced AI-powered plant disease classification system using Deep Learning (
 ## Tech Stack
 - **Backend:** Flask, TensorFlow/Keras, OpenCV
 - **Frontend:** HTML5, CSS3 (Vanilla), JavaScript (ES6+), Chart.js
-- **Deployment:** Vercel / Hugging Face
+- **Deployment:** Hugging Face Spaces (Docker)
 
 ## Local Setup
 1. Clone the repository:
@@ -26,4 +26,4 @@ An advanced AI-powered plant disease classification system using Deep Learning (
    ```bash
    python app.py
    ```
-4. Open `http://127.0.0.1:5000` in your browser.
+4. Open `http://127.0.0.1:7860` in your browser.
